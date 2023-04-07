@@ -1,5 +1,6 @@
 RENCANAN KONTEN REIDEVS
 - Javascript
+- Struktur Data Dasar
 - Php Framworks
 - Interview
 - Vlogs
